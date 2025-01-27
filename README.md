@@ -2,7 +2,8 @@
 Simulation
 # URL: https://mzhu933.github.io/workshop7/
 
-##### - fork Jiayi's work:
+## //
+##### fork Jiayi's work:
 ##### https://jiayiqu115.github.io/workbook3/
 ##### This code implements a dynamic particle effect. Each frame randomly generates particles with different positions, sizes, and colors. At the same time, the particles will gradually shrink until they disappear. Through the superposition of transparent backgrounds, the picture retains the trajectory of the previous frame, forming an aesthetic effect similar to the floating fireflies in the night sky.
 
